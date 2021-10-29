@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    // "module": "esnext",
+    "strict": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "moduleResolution": "node"
+    // "isolatedModules": true,
+    // "incremental": true
+  },
+  "include": ["**/*.ts"]
+}
